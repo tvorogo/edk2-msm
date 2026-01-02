@@ -25,7 +25,7 @@ jobs:
           # sm8150
           # mh2lm
           # betalm
-          # nabu
+          - nabu
           # vayu-huaxing
           # vayu-tianma
           # cepheus
@@ -36,7 +36,7 @@ jobs:
           # fajita
           # beryllium-ebbg
           # beryllium-tianma
-          - polaris
+          # polaris
           # perseus
           # sm7325
           # mona
